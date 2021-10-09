@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=harsh-gautam)
 
-### &#x0003C;&#x0002F;&#x0003E; Full Stack Web Developer
+<!-- ### &#x0003C;&#x0002F;&#x0003E; Full Stack Web Developer -->
 
-- Recently completed my Bachelor's Degree in Information Technology.
 - I’m currently learning Javascript and React.
+- I am looking for job/internship as web developer.
 - 2021 Goals: Learn React, Node.js and create multiple projects to showcase in my portfolio and hopefully get a job.
-- Hobbies: coding, gaming and watching anime i guess.
+- Hobbies: coding, gaming and watching anime.
 
 ### Connect with me:
 
@@ -44,7 +44,7 @@
 
 <img alt="Harsh Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harsh-gautam&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <br />
-<img alt="Harsh Gautam's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=harsh-gautam&theme=dark" />
+<img alt="Harsh Gautam's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=harsh-gautam&theme=dark&fire=red&hide_border=true" />
 
 [facebook]: https://fb.me/harsh.gautam.1257
 [instagram]: https://instagram.com/variable.not.defined
