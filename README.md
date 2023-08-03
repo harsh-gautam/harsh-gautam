@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="harsh-gautam | Facebook" width="26px" src="https://img.icons8.com/color/50/000000/facebook-new.png"/>][facebook]
-[<img align="left" alt="harsh-gautam | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
-[<img align="left" alt="harsh-gautam | Instagram" width="26px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Harsh Gautam | Facebook" width="26px" src="https://img.icons8.com/color/50/000000/facebook-new.png"/>][facebook]
+[<img align="left" alt="Harsh Gautam | LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>][linkedin]
+[<img align="left" alt="Harsh Gautam | Instagram" width="26px" src="https://img.icons8.com/color/48/000000/instagram-new.png"/>][instagram]
 
 <br />
 
@@ -48,7 +48,7 @@
 
 [facebook]: https://fb.me/harsh.gautam.1257
 [instagram]: https://instagram.com/variable.not.defined
-[linkedin]: https://www.linkedin.com/in/harsh-gautam
+[linkedin]: https://www.linkedin.com/in/harsh-gautam27
 
 <!--
 **harsh-gautam/harsh-gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
