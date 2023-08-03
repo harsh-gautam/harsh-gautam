@@ -4,10 +4,10 @@
 
 <!-- ### &#x0003C;&#x0002F;&#x0003E; Full Stack Web Developer -->
 
-- I’m currently learning Javascript and React.
-- I am looking for job/internship as web developer.
-- 2021 Goals: Learn React, Node.js and create multiple projects to showcase in my portfolio and hopefully get a job.
-- Hobbies: coding, gaming and watching anime.
+- I’m currently learning Javascript and Data Engineering stuff.
+- Currently working for MNC in Big Data domain.
+- 2023 Goals: Upskill myself in node.js and data engineering path and create a lot of self projects to showcase.
+- Hobbies: gaming and watching anime.
 
 ### Connect with me:
 
